@@ -1,0 +1,15 @@
+/* RainEffect.css */
+.rain-container {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .raindrop {
+    position: absolute;
+    width: 2px;
+    height: 10px;
+    background-color: red;
+    opacity: 0;
+    
+  }
